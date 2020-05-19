@@ -1,4 +1,4 @@
-# App-Series
+# Web-App-Series
 
 
 This repository contains a series of Web applications and Android applications developed during the quarantine period of Summer 2020.
