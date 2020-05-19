@@ -13,3 +13,7 @@ a Java game development framework.
 
 ## 3.Movie Post-it
 Movie Post-it is a simple web application written in Vanilla JS,it helps you to add a list of movies to your bingelist with a feature to add or remove movies from the list,the bingelist of movies is stored using local storage.
+
+## 4.The Weather App
+The Weather App is a web application that displays the weather information about a particular city or country as queried by the user.It uses a API key from openweathermap.org and the application is built using ReactJS.
+
