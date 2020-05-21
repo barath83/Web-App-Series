@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Contact Form</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <script src="https://www.gstatic.com/firebasejs/7.14.4/firebase-app.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.14.4/firebase-database.js"></script>
+        <script src="./script.js"></script>
+        <div class = "card">
+            <div class="header">
+                <h3>Contact Form</h3>
+            </div>
+            <form class="form">
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="firstname" placeholder="Your First Name">
+                <label for="lname">Last Name</label>
+                <input type="text" id="lname" name="lastname" placeholder="Your Last Name">
+                <label for="cnumber">Contact Number</label>
+                <input type="text" id="cnumber" name="contactnumber" placeholder="Your mobile number">
+                <label for="address">Address</label>
+                <input type="text" id="address" name="address" placeholder="Your address">
+            </form>
+            <input onClick = "writeData()" type="submit" value="Submit">
+        </div>
+    </body>
+</html>
