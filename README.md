@@ -1,7 +1,7 @@
 # Web-App-Series
 
 
-This repository contains a series of Web applications and Android applications developed during the quarantine period of Summer 2020.
+This repository contains a series of Web applications and Android applications.
 
 ## 1.Bluetooth App
 Bluetooth App is an android application that lists all the bluetooth devices around either by it's name or by it's address along with 
