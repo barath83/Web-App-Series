@@ -1,7 +1,7 @@
 # Web-App-Series
 
 
-This repository contains a series of Web applications and Android applications developed during the quarantine period of Summer 2020.
+This repository contains a series of Web applications and Android applications.
 
 ## 1.Bluetooth App
 Bluetooth App is an android application that lists all the bluetooth devices around either by it's name or by it's address along with 
@@ -19,4 +19,7 @@ The Weather App is a web application that displays the weather information about
 
 ## 5.Simple Contact Form
 A very simple but elegant form that gets contact information from the user and stores them in Firebase Realtime Database with a unique token number for each record.This application is written in VanillaJS.
+
+## 6.Financier
+Financier just keeps a tally of your income and expenses,and it calculates the balance you posses for every transaction.This application is written ReactJS and it uses Hooks for state management in components.
 
