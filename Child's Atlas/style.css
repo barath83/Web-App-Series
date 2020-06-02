@@ -1,0 +1,73 @@
+*{
+    padding : 0;
+    margin : 0;
+}
+
+nav {
+    background-color: darkred;
+}
+
+nav ul {
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    padding : 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: x-large;
+}
+
+h3 {
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    font-size: xx-large;
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-bottom: 5px;
+    padding-top: 20px;
+}
+
+h5{
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    font-size: larger;
+    padding: 5px;
+}
+
+.continent { 
+    display: flex;
+    flex-wrap: wrap;
+    word-wrap: break-word;
+    align-items: center;
+    margin: 20px;
+}
+
+.continent div {
+    border: 1px #ccc solid;
+    padding : 10px;
+    width : 20px;
+    margin : 10px;
+    text-align: center;
+    flex-basis: 15%;
+}
+
+.country {
+    flex : 1;
+    transition: transform .2s;
+    
+}
+
+.country:hover{
+    background-color: #ddd;
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2); 
+}
