@@ -23,3 +23,9 @@ A very simple but elegant form that gets contact information from the user and s
 ## 6.Financier
 Financier just keeps a tally of your income and expenses,and it calculates the balance you posses for every transaction.This application is written ReactJS and it uses Hooks for state management in components.
 
+## 7.Calc
+Nothing but a simple calculator built using javascript
+
+## 8.Child's Atlas
+Child's Atlas is just a playbook of different countries along with their national flag and capital also categorised by the continents. CSS Flexbox was utilised in the design. 
+
