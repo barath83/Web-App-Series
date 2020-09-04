@@ -32,3 +32,6 @@ Child's Atlas is just a playbook of different countries along with their nationa
 ## 9.Filterable List
 Filterable list is very useful in forms and in search lists where it can be addded as a routine to filter the results based on the letters the users type in.
 
+## 10.Quizzup
+A basic mockup quiz app built using Flutter.
+
