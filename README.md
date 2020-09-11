@@ -35,3 +35,7 @@ Filterable list is very useful in forms and in search lists where it can be addd
 ## 10.Quizzup
 A basic mockup quiz app built using Flutter.
 
+## 11. React Calc
+A simple calculator built using ReactJS.
+
+
